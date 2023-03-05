@@ -17,6 +17,9 @@ Activities can be browsed manually in the main git branch (directory), or if you
 
 ### Introduction
 
+Linear algebra (more specifically, vectors and their properties) is introduced through the [IOLA](https://iola.math.vt.edu/index.php) Carpet Ride Problem together with our _Maps and Distances_ activity.
+> [Maps and Distances](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Introduction/MapsAndDistances/maps-and-distances-readme.pdf)
+
 ### Perpendicularity
 
 ### Planes
@@ -34,4 +37,4 @@ Activities can be browsed manually in the main git branch (directory), or if you
 Homework largely consisted of three problem-sets consisting of exercises from the Stanford University MATH 51 textbook. The textbook is licensed under Copyright; these problem-sets cannot be redistributed here.
 
 Homework also incorporated short writing assignments, typically reflections on certain meta-mathematical topics.
-> [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/writing-prompts.pdf)
+> [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/Writing/writing-prompts.pdf)
