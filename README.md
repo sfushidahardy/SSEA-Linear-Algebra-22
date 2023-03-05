@@ -33,4 +33,5 @@ Activities can be browsed manually in the main git branch (directory), or if you
 
 Homework largely consisted of three problem-sets consisting of exercises from the Stanford University MATH 51 textbook. The textbook is licensed under Copyright; these problem-sets cannot be redistributed here.
 
-Homework also incorporated short writing assignments, typically reflections on certain meta-mathematical topics. 
+Homework also incorporated short writing assignments, typically reflections on certain meta-mathematical topics.
+> [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/writing-prompts.pdf)
