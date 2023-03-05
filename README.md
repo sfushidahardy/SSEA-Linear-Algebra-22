@@ -17,10 +17,15 @@ Activities can be browsed manually in the main git branch (directory), or if you
 
 ### Introduction
 
-Linear algebra (more specifically, vectors and their properties) is introduced through the [IOLA](https://iola.math.vt.edu/index.php) Carpet Ride Problem together with our _Maps and Distances_ activity.
-> [Maps and Distances](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Introduction/MapsAndDistances/maps-and-distances-readme.pdf)
+Linear algebra (more specifically, vectors and their properties) is introduced through the [IOLA](https://iola.math.vt.edu/index.php) Carpet Ride Problem together with our _Maps and Distances_ activity. In this activity, students use the language of vectors to estimate distances between classmates' hometowns with physical maps.
+> [Maps and Distances](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Introduction/MapsAndDistances/)
 
 ### Perpendicularity
+
+The first big topic of the class is perpendicularity, which is introduced through _Perpendicularity and Approximations_. This is a quick activity to motivate why perpendicularity is a useful property. Next, the dot product is discovered in _Patterns in Perpendicular Vectors_. Finally, as a class, we formally prove that the dot product detects perpendicularity in _Dot Product_.
+> [Perpendicularity and Approximations](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/PerpendicularityAndApproximations/)
+> [Patterns in Perpendicular Vectors](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/PatternsInPerpendicularVectors/)
+> [Dot Product](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/DotProduct/)
 
 ### Planes
 
@@ -37,4 +42,4 @@ Linear algebra (more specifically, vectors and their properties) is introduced t
 Homework largely consisted of three problem-sets consisting of exercises from the Stanford University MATH 51 textbook. The textbook is licensed under Copyright; these problem-sets cannot be redistributed here.
 
 Homework also incorporated short writing assignments, typically reflections on certain meta-mathematical topics.
-> [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/Writing/writing-prompts.pdf)
+> [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/Writing/)
