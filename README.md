@@ -54,6 +54,13 @@ really an activity about checking whether or not a set spans, and whether or not
 
 ### Projections
 
+The final big topic is projections, mostly of lines in 3-dimensions. Projections are first introduced through _Projections using a Toy Train_. Next, projections are formalised in _The Nearest Vector Interpretation and the Projection Formula_. Finally, students practice projecting vectors in _Projection onto Planes Telephone_.
+> [Projections using a Toy Train](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Projections/ProjectionsUsingAToyTrain)
+>
+> [The Nearest Vector Interpretation and the Projection Formula](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Projections/TheNearestVectorInterpretationAndTheProjectionFormula)
+>
+> [Projection onto Planes Telephone](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Projections/ProjectionOntoPlanesTelephone)
+
 ### Non-Linear Algebra
 
 ### Meta Skills
