@@ -1,4 +1,4 @@
-This directory consists of a [readme file](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/cosine-law-handout.pdf) describing the details of the activity _Cosine Law_.
+This directory consists of a [readme file](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/cosine-law-readme.pdf) describing the details of the activity _Cosine Law_.
 
 There is a [handout](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/CosineLaw/cosine-law-handout.png).
 
