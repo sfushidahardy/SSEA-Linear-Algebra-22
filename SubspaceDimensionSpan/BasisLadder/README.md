@@ -2,4 +2,4 @@ This directory consists of a [readme file](https://github.com/sfushidahardy/SSEA
 
 There is also a [handout](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/SubspaceDimensionSpan/BasisLadder/basis-ladder-handout.pdf).
 
-[Click here to return home.](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/README.md#SubspaceDimensionSpan)
+[Click here to return home.](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/README.md#Subspaces-Dimension-Spans)
