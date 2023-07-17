@@ -44,6 +44,14 @@ The second big topic is planes (living in 3-dimensions), introduced through _Ver
 
 ### Subspaces, Dimension, Spans
 
+The third big topic is bases, subspaces, dimension, and spans. The idea of bases and spanning sets is introduced in _Spanning Sets_. Next, students practice changing between bases in _Basis Ladder_, which is 
+really an activity about checking whether or not a set spans, and whether or not it has no redundancy. Finally students work on _Practice with Bases_ which consists of various different problems relating bases to earlier topics.
+> [Spanning Sets](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/SubspaceDimensionSpan/SpanningSets)
+>
+> [Basis Ladder](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/SubspaceDimensionSpan/BasisLadder)
+>
+> [Practice with Bases](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/SubspaceDimensionSpan/PracticeWithBases)
+
 ### Projections
 
 ### Non-Linear Algebra
