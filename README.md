@@ -18,18 +18,29 @@ Activities can be browsed manually in the main git branch (directory), or if you
 ### Introduction
 
 Linear algebra (more specifically, vectors and their properties) is introduced through the [IOLA](https://iola.math.vt.edu/index.php) Carpet Ride Problem together with our _Maps and Distances_ activity. In this activity, students use the language of vectors to estimate distances between classmates' hometowns with physical maps.
+> [Magic Carpet](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Introduction/MagicCarpet/)
+>
 > [Maps and Distances](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Introduction/MapsAndDistances/)
 
 ### Perpendicularity
 
-The first big topic of the class is perpendicularity, which is introduced through _Perpendicularity and Approximations_. This is a quick activity to motivate why perpendicularity is a useful property. Next, the dot product is discovered in _Patterns in Perpendicular Vectors_. Finally, as a class, we formally prove that the dot product detects perpendicularity in _Dot Product_.
+The first big topic of the class is perpendicularity, which is introduced through _Perpendicularity and Approximations_. This is a quick activity to motivate why perpendicularity is a useful property. Next, the dot product is discovered in _Patterns in Perpendicular Vectors_. Finally, as a class, we formally prove that the dot product detects perpendicularity in _Cosine Law_ and _Dot Product_. (Students should work on _Cosine Law_ directly before _Dot Product_, as the latter builds on the former.) 
 > [Perpendicularity and Approximations](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/PerpendicularityAndApproximations/)
 > 
 > [Patterns in Perpendicular Vectors](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/PatternsInPerpendicularVectors/)
+>
+> [Cosine Law](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/CosineLaw/)
 > 
 > [Dot Product](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Perpendicularity/DotProduct/)
 
 ### Planes
+
+The second big topic is planes (living in 3-dimensions), introduced through _Very Sneaky Mathematicians_. This is a spiritual successor to the Carpet Ride Problem. Next, students practice converting between different types of descriptions of planes in _Converting between Descriptions of Planes_ and _Planes Telephone_. Specifically, students convert between parametric, equational, three-point, and point-normal forms of planes.
+> [Very Sneaky Mathematicians]
+>
+> [Converting between Descriptions of Planes]
+>
+> [Planes Telephone]
 
 ### Subspaces, Dimension, Spans
 
