@@ -8,7 +8,7 @@ The activities are arranged by topic:
 + Subspaces, Dimension, Spans
 + Projections
 + Non-Linear Algebra
-+ Meta Skills
++ Meta Skills, General Skills, and Other Activities
 + Homework
 
 Within each topic, each activity has a corresponding _readme_ file. This file describes the goals of the activity (both mathematical and meta-mathematical), the necessary materials, rough time-lines for the activity, detailed instructions, and additional tips and advice from our experiences using the activity. Some activities in the database require no supplementary materials, some require digital/non-digital materials that we don't provide, and most require digital materials that we _do_ provide.
@@ -68,7 +68,7 @@ Throughout the course, non-linear algebra activities were scattered between line
 Early in the course, students worked on _No More Pennies_ in which they determine which values of currency can be attained by using only coins of specified values. This can be considered a discrete version of linear combinations and spans.
 > [No More Pennies](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/NoMorePennies)
 
-Students also work on algebra activies throughout the course with an emphasis on fractions, exponents, and general algebra rules respectively. Each activity is surprisingly deep.
+Students also work on algebra activies throughout the course with an emphasis on fractions, exponents, and general algebra rules respectively. Each activity is surprisingly deep, with _Egyptian Fractions_ and _Root 2 and Beyond_ emphasising problem solving.
 > [Egyptian Fractions](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/EgyptianFractions)
 >
 > [Root 2 and Beyond](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/Root2AndBeyond)
@@ -80,7 +80,30 @@ There were also two activities designed to be playful and encourage collaboratio
 >
 > [Paper Folding](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/PaperFolding)
 
-### Meta Skills
+### Meta Skills, General Skills, and Other Activities
+
+Each of _Good Groupwork_, _Math Resources_, _Preparing for Lecture_, and _Problem Solving_ are discussions around certain aspects of learning maths generally at university. Similarly _Honor Code_ is a discussion based activity but specific to Stanford University (in which students must adhere to the [Honor Code](https://communitystandards.stanford.edu/policies-guidance/honor-code)). 
+> [Good Groupwork](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/GoodGroupwork)
+>
+> [Math Resources](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/MathResources)
+>
+> [Perparing for Lecture](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/PreparingForLecture)
+>
+> [Problem Solving](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/ProblemSolving)
+
+Next, _Attending Section_, _Cheat Sheet_, and _Reading Practice_ are all opportunities for students to directly attempt tasks they'll undergo in university maths classes.
+> [Attending Section](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/AttendingSection)
+>
+> [Cheat Sheet](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/CheatSheet)
+>
+> [Reading Practice](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/ReadingPractice)
+
+In _Math Words Matching Game_, students work together to learn the meanings of words like _lemma_, _conjecture_, and _theorem_. In _Secret Santa_, students write linear algebra problems for one another, and in _Skills Recap_, we discuss and celebrate all of the learning that has been done throughout the course.
+> [Math Words Matching Game](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/MathWordsMatchingGame)
+>
+> [Secret Santa](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/SecretSanta)
+>
+> [Skills Recap](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/SkillsRecap)
 
 ### Homework
 
