@@ -63,6 +63,23 @@ The final big topic is projections, mostly of lines in 3-dimensions. Projections
 
 ### Non-Linear Algebra
 
+Throughout the course, non-linear algebra activities were scattered between linear algebra activities. These were of several types: one was a discrete version of a linear algebra concept, three were algebra activities, and three were more alternative activities designed to be playful and encourage collaboration and communication.
+
+Early in the course, students worked on _No More Pennies_ in which they determine which values of currency can be attained by using only coins of specified values. This can be considered a discrete version of linear combinations and spans.
+> [No More Pennies](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/NoMorePennies)
+
+Students also work on algebra activies throughout the course with an emphasis on fractions, exponents, and general algebra rules respectively. Each activity is surprisingly deep.
+> [Egyptian Fractions](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/EgyptianFractions)
+>
+> [Root 2 and Beyond](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/Root2AndBeyond)
+>
+> [True or False?](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/TrueOrFalse)
+
+There were also two activities designed to be playful and encourage collaboration and communication.
+> [String Shapes](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/StringShapes)
+>
+> [Paper Folding](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/PaperFolding)
+
 ### Meta Skills
 
 ### Homework
