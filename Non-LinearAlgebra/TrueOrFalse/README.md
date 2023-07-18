@@ -1,4 +1,4 @@
-This directory consists of a [readme file](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/TrueOrFalse/true-or-false-readme.pdf) describing the details of the activity _True or False_.
+This directory consists of a [readme file](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/TrueOrFalse/true-or-false-readme.pdf) describing the details of the activity _True or False?_.
 
 There is also a [handout](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/TrueOrFalse/true-or-false-handout.pdf).
 
