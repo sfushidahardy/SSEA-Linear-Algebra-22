@@ -90,6 +90,8 @@ Each of _Good Groupwork_, _Math Resources_, _Preparing for Lecture_, and _Proble
 > [Perparing for Lecture](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/PreparingForLecture)
 >
 > [Problem Solving](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/ProblemSolving)
+>
+> [Honor Code](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/HonorCode)
 
 Next, _Attending Section_, _Cheat Sheet_, and _Reading Practice_ are all opportunities for students to directly attempt tasks they'll undergo in university maths classes.
 > [Attending Section](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/AttendingSection)
