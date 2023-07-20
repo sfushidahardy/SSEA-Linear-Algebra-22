@@ -7,7 +7,7 @@ The activities are arranged by topic:
 + Planes
 + Subspaces, Dimension, Spans
 + Projections
-+ Non-(Linear Algebra)
++ Non-Linear Algebra
 + Meta Skills, General Skills, and Other Activities
 + Homework
 
@@ -45,7 +45,7 @@ The second big topic is planes (living in 3-dimensions), introduced through _Ver
 ### Subspaces, Dimension, Spans
 
 The third big topic is bases, subspaces, dimension, and spans. The idea of bases and spanning sets is introduced in _Spanning Sets_. Next, students practice changing between bases in _Basis Ladder_, which is 
-really an activity about checking whether or not a set spans, and whether or not it has no redundancy. Finally students work on _Practice with Bases_ which consists of various different problems relating bases to earlier topics.
+really an activity about checking whether or not a set has a redundancy. Finally students work on _Practice with Bases_ which consists of various different problems relating bases to earlier topics.
 > [Spanning Sets](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/SubspaceDimensionSpan/SpanningSets)
 >
 > [Basis Ladder](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/SubspaceDimensionSpan/BasisLadder)
@@ -54,7 +54,7 @@ really an activity about checking whether or not a set spans, and whether or not
 
 ### Projections
 
-The final big topic is projections, mostly of lines in 3-dimensions. Projections are first introduced through _Projections using a Toy Train_. Next, projections are formalised in _The Nearest Vector Interpretation and the Projection Formula_. Finally, students practice projecting vectors in _Projection onto Planes Telephone_.
+The final big topic is projections, mostly onto lines and planes in 3-dimensions. Projections are first introduced through _Projections using a Toy Train_. Next, projections are formalised in _The Nearest Vector Interpretation and the Projection Formula_. Finally, students practice projecting vectors in _Projection onto Planes Telephone_.
 > [Projections using a Toy Train](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Projections/ProjectionsUsingAToyTrain)
 >
 > [The Nearest Vector Interpretation and the Projection Formula](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Projections/TheNearestVectorInterpretationAndTheProjectionFormula)
@@ -63,7 +63,7 @@ The final big topic is projections, mostly of lines in 3-dimensions. Projections
 
 ### Non-Linear Algebra
 
-Throughout the course, non-linear algebra activities were scattered between linear algebra activities. These were of several types: one was a discrete version of a linear algebra concept, three were algebra activities, and three were more alternative activities designed to be playful and encourage collaboration and communication.
+Throughout the course, non-linear algebra activities were scattered between linear algebra activities. These were of several types: one was a discrete version of a linear algebra concept, three were algebra activities, and two were playful activities designed to encourage collaboration and communication, and build problem solving skills.
 
 Early in the course, students worked on _No More Pennies_ in which they determine which values of currency can be attained by using only coins of specified values. This can be considered a discrete version of linear combinations and spans.
 > [No More Pennies](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Non-LinearAlgebra/NoMorePennies)
@@ -93,7 +93,7 @@ Each of _Good Groupwork_, _Math Resources_, _Preparing for Lecture_, and _Proble
 >
 > [Honor Code](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/HonorCode)
 
-Next, _Attending Section_, _Cheat Sheet_, and _Reading Practice_ are all opportunities for students to directly attempt tasks they'll undergo in university maths classes.
+Next, _Attending Section_, _Cheat Sheet_, and _Reading Practice_ are all opportunities for students to directly attempt tasks they'll perform in university math classes.
 > [Attending Section](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/AttendingSection)
 >
 > [Cheat Sheet](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/MetaSkills/CheatSheet)
@@ -109,7 +109,7 @@ In _Math Words Matching Game_, students work together to learn the meanings of w
 
 ### Homework
 
-Homework largely consisted of three problem-sets consisting of exercises from the Stanford University MATH 51 textbook. The textbook is licensed under Copyright; these problem-sets cannot be redistributed here.
+Homework largely consisted of three problem-sets with exercises from the Stanford University MATH 51 textbook. The textbook is licensed under Copyright; these problem-sets cannot be redistributed here.
 
 Homework also incorporated short writing assignments, typically reflections on certain meta-mathematical topics.
 > [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/Writing/)
