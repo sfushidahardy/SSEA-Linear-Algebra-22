@@ -2,12 +2,12 @@
 > Database of activities used in the Stanford Summer Engineering Academy mathematics course (2022). Created by Shintaro Fushida-Hardy, Pranav Nuti, and Megan Selbach-Allen. Please feel free to modify and incorporate any of these activities into your own courses! (Materials licensed under [Creative Commons Attribution ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).)
 
 The activities are arranged by topic: 
-+ Introduction
++ Introduction to vectors
 + Perpendicularity
 + Planes
 + Subspaces, Dimension, Spans
 + Projections
-+ Non-Linear Algebra
++ Non-(Linear Algebra)
 + Meta Skills, General Skills, and Other Activities
 + Homework
 
