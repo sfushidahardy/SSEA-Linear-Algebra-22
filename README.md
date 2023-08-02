@@ -10,6 +10,7 @@ The activities are arranged by topic:
 + Non-Linear Algebra
 + Meta Skills, General Skills, and Other Activities
 + Homework
+The SSEA mathematics 2022 syllabus and lesson plans are also included in an additional _Syllabus_ directory.
 
 Within each topic, each activity has a corresponding _readme_ file. This file describes the goals of the activity (both mathematical and meta-mathematical), the necessary materials, rough time-lines for the activity, detailed instructions, and additional tips and advice from our experiences using the activity. Some activities in the database require no supplementary materials, some require digital/non-digital materials that we don't provide, and most require digital materials that we _do_ provide.
 
@@ -113,3 +114,10 @@ Homework largely consisted of three problem-sets with exercises from the Stanfor
 
 Homework also incorporated short writing assignments, typically reflections on certain meta-mathematical topics.
 > [Writing prompts](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Homework/Writing/)
+
+### Syllabus
+
+Syllabus and lesson plan documents are also provided. The syllabus outlines expectations for students and instructors, and overall administrative details about the course. The lesson plan describes, in detail, each lesson carried out throughout the course---in particular, how the activities are spaced through the four weeks.
+> [Syllabus](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Syllabus/Syllabus)
+>
+> [Lesson Plan](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Syllabus/LessonPlan)
