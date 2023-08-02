@@ -35,8 +35,8 @@ The first big topic of the class is perpendicularity, which is introduced throug
 
 ### Planes
 
-The second big topic is planes (living in 3-dimensions), introduced through _Very Sneaky Mathematicians_. This is a spiritual successor to the Carpet Ride Problem. Next, students practice converting between different types of descriptions of planes in _Converting between Descriptions of Planes_ and _Planes Telephone_. Specifically, students convert between parametric, equational, three-point, and point-normal forms of planes.
-> [Very Sneaky Mathematicians](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Planes/VerySneakyMathematicians)
+The second big topic is planes (living in 3-dimensions), introduced through _Various Sneaky Mathematicians_. This is a spiritual successor to the Carpet Ride Problem. Next, students practice converting between different types of descriptions of planes in _Converting between Descriptions of Planes_ and _Planes Telephone_. Specifically, students convert between parametric, equational, three-point, and point-normal forms of planes.
+> [Various Sneaky Mathematicians](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Planes/VariousSneakyMathematicians)
 >
 > [Converting between Descriptions of Planes](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Planes/ConvertingBetweenDescriptionsOfPlanes)
 >
