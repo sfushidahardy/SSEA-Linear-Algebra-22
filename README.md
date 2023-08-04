@@ -20,7 +20,7 @@ Activities can be browsed manually in the main git branch (directory), or if you
 Syllabus and lesson plan documents are also provided. The syllabus outlines expectations for students and instructors, and overall administrative details about the course. The lesson plan describes, in detail, each lesson carried out throughout the course---in particular, how the activities are spaced through the four weeks.
 > [Syllabus](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Syllabus/Syllabus)
 >
-> [Lesson Plan](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Syllabus/LessonPlan)
+> [Lesson Plans](https://github.com/sfushidahardy/SSEA-Linear-Algebra-Activities/blob/main/Syllabus/LessonPlan)
 
 ### Introduction
 
